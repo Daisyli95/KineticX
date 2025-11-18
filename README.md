@@ -8,7 +8,6 @@ Official repository for **"BiCoA-Net: An Interpretable Bidirectional Co-Attentio
 - [Installation](#installation)
 - [Usage](#usage)
 - [Model Weights](#model-weights)
-- [Citation](#citation)
 - [License](#license)
 
 ## 🔬 Overview
@@ -90,24 +89,11 @@ python inference.py \
 
 Pre-trained model checkpoints are available in the `model_weights/` directory.
 
-## 📝 Citation
-
-If you use BiCoA-Net in your research, please cite:
-```bibtex
-@article{bicoanet2024,
-  title={BiCoA-Net: An Interpretable Bidirectional Co-Attention Framework for Predicting Protein-Ligand Binding Kinetics},
-  author={[Your Name]},
-  journal={[Journal Name]},
-  year={2024},
-  note={Under Review}
-}
-```
 
 ## 📄 License
-
-[Specify your license here]
+MIT license
 
 ## 📧 Contact
 
-For questions or issues, please open an issue on GitHub or contact [your-email@example.com]
+For questions or issues, please open an issue on GitHub.
 
